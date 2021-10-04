@@ -10,9 +10,7 @@
 ### Language  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/a6/a64d16157d53a9bd8a109157df1d019f.png" alt="R" height="60" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/a6/a64d16157d53a9bd8a109157df1d019f.png" alt="R" height="60" />  
 </div>
 
 </td></tr></table>  
