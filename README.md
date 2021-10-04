@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" align="center" style="width: 100%; height: auto" />
+<img src="oh.gif" align="center" style="width: 100%; height: auto" />
 </div>  
   
 
