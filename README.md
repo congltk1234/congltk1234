@@ -20,16 +20,16 @@
 <br/>  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantheminhchau&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congltk1234&hide=TeX&layout=compact)
 
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/chauphan9.3.2" target="_blank">
+<a href="https://www.facebook.com/stc1702" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/phantheminhchau" target="_blank">
+<a href="https://github.com/congltk1234" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
